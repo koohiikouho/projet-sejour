@@ -6,7 +6,7 @@
 
 ![CAPSTONE](https://img.shields.io/badge/CAPSTONE-blue) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Navigate the itinerary of St. John Baptist de La Salle with interactive maps, historical insights, and daily reflection prompts for pilgrims across France and Spain.
+A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Navigate the itinerary of St. John Baptist de La Salle with interactive maps, historical insights, and reflection prompts for pilgrims across France and Spain.
 
 ## Table of Contents <!-- omit from toc -->
 
