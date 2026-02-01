@@ -39,7 +39,7 @@ A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Nav
 
 ### 2.1. Prerequisites
 
-- Flutter Extension
+- Flutter Extension (if VSCode)
 
 ### 2.2. Installation
 
