@@ -39,19 +39,11 @@ A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Nav
 
 ### 2.1. Prerequisites
 
-Install bun and pnpm
+- Flutter Extension
 
 ### 2.2. Installation
 
-> [fill up]
 
-install bun via powershell -c "irm bun.sh/install.ps1|iex"
-
-verify bun installed via bun --version
-
-install elysiaJS and mysql client
-
-bun add elysia mysql2
 
 ### 2.3. Running the Project
 
