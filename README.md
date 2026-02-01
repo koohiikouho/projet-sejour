@@ -4,7 +4,7 @@
 
 <!-- Refer to https://shields.io/badges for usage -->
 
-![Year, Term, Course](https://img.shields.io/badge/CAPSTONE-blue) ![Python](https://img.shields.io/Flutter/v/flutter.svg?logo=flutter)
+![Year, Term, Course](https://img.shields.io/badge/CAPSTONE-blue) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 A reusable GitHub repository template for programming projects.
 
