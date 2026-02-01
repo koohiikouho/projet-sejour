@@ -49,8 +49,6 @@ A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Nav
 
 > [fill up]
 
-Stop both servers using Ctrl+C
-
 ## 3. Usage
 
 ### 3.1. Use Case 1
