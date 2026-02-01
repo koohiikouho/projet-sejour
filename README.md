@@ -4,11 +4,9 @@
 
 <!-- Refer to https://shields.io/badges for usage -->
 
-![Year, Term, Course](https://img.shields.io/badge/CAPSTONE-blue) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![CAPSTONE](https://img.shields.io/badge/CAPSTONE-blue) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-A reusable GitHub repository template for programming projects.
-
-Includes a standardized folder structure, README layout, and common configurations to speed up project setup and maintain consistency.
+A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Navigate the itinerary of St. John Baptist de La Salle with interactive maps, historical insights, and daily reflection prompts for pilgrims across France and Spain.
 
 ## Table of Contents <!-- omit from toc -->
 
