@@ -47,13 +47,7 @@ A multi-platform digital companion app for the Lasallian Sojourn pilgrimage. Nav
 
 ### 2.3. Running the Project
 
-[Frontend]
-cd into itdbadm-frontend
-run using `pnpm run dev`
-
-[Backend]
-cd into itdbadm
-run using `bun run dev`
+> [fill up]
 
 Stop both servers using Ctrl+C
 
